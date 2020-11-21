@@ -1,0 +1,3 @@
+﻿  OpenCVCoinDetection.cpp
+C:\Users\Zoltan\Source\Repos\OpenCVCoinDetection\OpenCVCoinDetection.cpp(17,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OpenCVCoinDetection.vcxproj -> C:\Users\Zoltan\Source\Repos\OpenCVCoinDetection\x64\Debug\OpenCVCoinDetection.exe

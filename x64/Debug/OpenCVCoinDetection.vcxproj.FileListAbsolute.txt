@@ -1,0 +1,2 @@
+C:\Users\Zoltan\Source\Repos\OpenCVCoinDetection\x64\Debug\OpenCVCoinDetection.exe
+C:\Users\Zoltan\Source\Repos\OpenCVCoinDetection\x64\Debug\OpenCVCoinDetection.pdb
